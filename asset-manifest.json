@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PWA-Chat-Application/static/css/main.5784bd66.css",
-    "main.js": "/PWA-Chat-Application/static/js/main.951e411b.js",
+    "main.js": "/PWA-Chat-Application/static/js/main.29305d25.js",
     "static/js/592.ccfe6656.chunk.js": "/PWA-Chat-Application/static/js/592.ccfe6656.chunk.js",
     "static/media/chat_animation.webm": "/PWA-Chat-Application/static/media/chat_animation.b05375603698cfce2e97.webm",
     "static/media/user.png": "/PWA-Chat-Application/static/media/user.bf2aa57c354883cb76fd.png",
     "index.html": "/PWA-Chat-Application/index.html",
     "main.5784bd66.css.map": "/PWA-Chat-Application/static/css/main.5784bd66.css.map",
-    "main.951e411b.js.map": "/PWA-Chat-Application/static/js/main.951e411b.js.map",
+    "main.29305d25.js.map": "/PWA-Chat-Application/static/js/main.29305d25.js.map",
     "592.ccfe6656.chunk.js.map": "/PWA-Chat-Application/static/js/592.ccfe6656.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5784bd66.css",
-    "static/js/main.951e411b.js"
+    "static/js/main.29305d25.js"
   ]
 }
