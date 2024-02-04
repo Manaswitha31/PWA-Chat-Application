@@ -1,0 +1,21 @@
+.chatHeader{
+    margin-top: -50px;
+    height: 70px;
+    background-color: #0D9276;
+    margin-left: -11px;
+    width: 103%;
+    z-index: 1000000000;
+}
+.chatHeader img{
+    background-color: #0D9276;
+    margin-top: 10px;
+}
+.chatHeader h5{
+    background-color: #0D9276;
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.chatHeader .col{
+    background-color: #0D9276;
+}

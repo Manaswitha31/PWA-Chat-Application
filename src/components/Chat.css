@@ -1,0 +1,21 @@
+.chatWindow{
+    height: 80vh;
+    background-color: #fff;
+    z-index: -10;
+}
+.chatWindow .left{
+    background-color: #fff;
+    height: 80vh;
+    border: 1px solid #000;
+}
+.chatWindow .left .header{
+    margin-left: -12px;
+    width: 421px;
+    height: 60px;
+    background-color: #0D9276;
+}
+.chatWindow .right{
+    background-color: #fff;
+    height: 80vh;
+    border: 1px solid #000;
+}

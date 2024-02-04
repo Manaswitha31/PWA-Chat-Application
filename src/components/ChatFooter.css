@@ -1,0 +1,26 @@
+.chatFooter {
+    margin-top: -50px;
+    margin-left: -10px;
+    width: 103%;
+}
+.chatFooter button{
+    border: none;
+}
+.chatFooter .send img{
+    width: 50px;
+    height: 35px;
+    margin-left: -20px;
+    margin-top: -10px;
+    background-color: #e8e5e5;
+    
+}
+.chatFooter .fileUpload{
+    position: absolute;
+    z-index: 1;
+    transform: scale(2);
+    opacity: 0;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}

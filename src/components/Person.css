@@ -1,0 +1,19 @@
+.person{
+    margin-left: -13px;
+    width: 421px;
+    height: 100px;
+    background-color: #e8e5e5;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+.person .col{
+    background-color: #e8e5e5;
+}
+.person img{
+    margin-top: -20px;
+    background-color: #e8e5e5;
+}
+.person h5{
+    margin-top: -30px;
+    background-color: #e8e5e5;
+}
