@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Manaswitha31/PWA-Chat-Application/static/css/main.5784bd66.css",
+    "main.js": "/Manaswitha31/PWA-Chat-Application/static/js/main.8a73772b.js",
+    "static/js/592.ccfe6656.chunk.js": "/Manaswitha31/PWA-Chat-Application/static/js/592.ccfe6656.chunk.js",
+    "static/media/chat_animation.webm": "/Manaswitha31/PWA-Chat-Application/static/media/chat_animation.b05375603698cfce2e97.webm",
+    "static/media/user.png": "/Manaswitha31/PWA-Chat-Application/static/media/user.bf2aa57c354883cb76fd.png",
+    "index.html": "/Manaswitha31/PWA-Chat-Application/index.html",
+    "main.5784bd66.css.map": "/Manaswitha31/PWA-Chat-Application/static/css/main.5784bd66.css.map",
+    "main.8a73772b.js.map": "/Manaswitha31/PWA-Chat-Application/static/js/main.8a73772b.js.map",
+    "592.ccfe6656.chunk.js.map": "/Manaswitha31/PWA-Chat-Application/static/js/592.ccfe6656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5784bd66.css",
+    "static/js/main.8a73772b.js"
+  ]
+}
