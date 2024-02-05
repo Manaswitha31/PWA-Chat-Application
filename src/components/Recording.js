@@ -4,12 +4,12 @@ import React from "react";
 function Recording(){
     return( 
         <>
-            <div class="container">
-                <div class="display">
+            <div className="container">
+                <div className="display">
 
                 </div>
 
-                <div class="controllers">
+                <div className="controllers">
 
                 </div>
             </div>
